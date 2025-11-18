@@ -1,4 +1,4 @@
-## Hi, this is my personal repository, I'm Nat. I'm currently studying a Computer Science Masters at the University of Bath, but my background is in developmental biology, originally compeleting a degree in Natural Sciences at the University of Cambridge.
+## Hi, this is my personal repository, I'm Nat. I'm currently completing my PhD at Queen Mary University London, working within the PHURI under Claudia Langenberg. I have a background in both Natural Sciences, through my undergraduate at the University of Cambridge and Computer Science through my postgraduate (MsC) at the University of Bath.
 
 <!--
 **Nat-Strange0811/Nat-Strange0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
